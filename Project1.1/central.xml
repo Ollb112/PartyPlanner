@@ -1,0 +1,20 @@
+<out.production.Projeto.CentralDeInformacoes>
+  <todosOsEventos>
+    <out.production.Projeto.Evento>
+      <id>1683777183989</id>
+      <nome>festa</nome>
+      <data>2023-06-25T22:00:00</data>
+      <local>praca</local>
+      <cliente>
+        <nome>wanessa</nome>
+        <sexo>FEMININO</sexo>
+        <CPF>12345</CPF>
+        <email>wanessavaleria474@gmail.com</email>
+      </cliente>
+      <contratado>false</contratado>
+    </out.production.Projeto.Evento>
+  </todosOsEventos>
+  <todosOsClientes>
+    <out.production.Projeto.Cliente reference="../../todosOsEventos/out.production.Projeto.Evento/cliente"/>
+  </todosOsClientes>
+</out.production.Projeto.CentralDeInformacoes>
