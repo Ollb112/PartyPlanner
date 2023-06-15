@@ -1,0 +1,14 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores>
+    <back.Administrador>
+      <nome>Oliver</nome>
+      <cpf>1111111111</cpf>
+      <senha>ol123456</senha>
+      <email>oliverlobo10@gmail.com</email>
+      <sexo>MASCULINO</sexo>
+    </back.Administrador>
+  </todosOsAdministradores>
+  <todosOsClientes/>
+  <todosOsFornecedores/>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>
