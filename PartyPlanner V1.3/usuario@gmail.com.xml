@@ -1,0 +1,25 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores>
+    <back.PessoaFisica>
+      <nome>Oliver Otto da Silva Gabi Lôbo</nome>
+      <cpf>11122233344</cpf>
+      <senha>123456789</senha>
+      <email>oliverlobo10@gmail.com</email>
+      <telefone>(83)998019979</telefone>
+      <nascimento>12/03/1997</nascimento>
+      <sexo>MASCULINO</sexo>
+    </back.PessoaFisica>
+    <back.PessoaFisica>
+      <nome>Nome Completo</nome>
+      <cpf>insira somente os digitos</cpf>
+      <senha></senha>
+      <email>usuario@gmail.com</email>
+      <telefone>(  )         </telefone>
+      <nascimento>  /  /    </nascimento>
+      <sexo>FEMININO</sexo>
+    </back.PessoaFisica>
+  </todosOsAdministradores>
+  <todosOsClientes/>
+  <todosOsFornecedores/>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>
