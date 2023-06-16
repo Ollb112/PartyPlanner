@@ -1,0 +1,26 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores>
+    <back.Administrador>
+      <nome>Oliver Lôbo</nome>
+      <cpf>11122233344</cpf>
+      <senha>123</senha>
+      <email>oliverlobo10@gmail.com</email>
+      <telefone>(83)998019979</telefone>
+      <nascimento>12/03/1997</nascimento>
+      <sexo>MASCULINO</sexo>
+    </back.Administrador>
+  </todosOsAdministradores>
+  <todosOsClientes>
+    <back.Cliente>
+      <nome>Marlon Brando</nome>
+      <cpf>40028922</cpf>
+      <senha></senha>
+      <email>marllon.anizio@gmail.com</email>
+      <telefone>(34)857348458</telefone>
+      <nascimento>26/12/2003</nascimento>
+      <sexo>MASCULINO</sexo>
+    </back.Cliente>
+  </todosOsClientes>
+  <todosOsFornecedores/>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>
