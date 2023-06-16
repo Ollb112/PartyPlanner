@@ -1,0 +1,29 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores/>
+  <todosOsClientes>
+    <back.Cliente>
+      <nome>Val</nome>
+      <cnpj>11122233344455</cnpj>
+      <senha></senha>
+      <email>val@gmail.com</email>
+      <telefone>(83)999999999</telefone>
+      <nascimento>08/01/2000</nascimento>
+      <tipoDeUsuario>Pessoa Juridica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+    </back.Cliente>
+  </todosOsClientes>
+  <todosOsFornecedores>
+    <back.Fornecedor>
+      <nome>Wanessa</nome>
+      <cpf>11122233399</cpf>
+      <senha></senha>
+      <email>wanessa@gmail.com</email>
+      <telefone>(83)999999999</telefone>
+      <nascimento>01/08/2001</nascimento>
+      <tipoDeUsuario>Pessoa Fisica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+      <servicos/>
+    </back.Fornecedor>
+  </todosOsFornecedores>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>
