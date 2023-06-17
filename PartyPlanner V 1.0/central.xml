@@ -1,0 +1,17 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores>
+    <back.Administrador>
+      <nome>Oliver Lôbo</nome>
+      <cpf>1234456</cpf>
+      <senha>1234</senha>
+      <email>oliverlobo10@gmail.com</email>
+      <telefone>(83)998019979</telefone>
+      <nascimento>12/03/1997</nascimento>
+      <tipoDeUsuario>Pessoa Fisica</tipoDeUsuario>
+      <sexo>MASCULINO</sexo>
+    </back.Administrador>
+  </todosOsAdministradores>
+  <todosOsClientes/>
+  <todosOsFornecedores/>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>
