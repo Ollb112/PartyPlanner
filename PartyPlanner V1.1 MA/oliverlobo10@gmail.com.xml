@@ -1,0 +1,87 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores/>
+  <todosOsClientes>
+    <back.Cliente>
+      <nome>Val</nome>
+      <cnpj>11122233344455</cnpj>
+      <senha></senha>
+      <email>val@gmail.com</email>
+      <telefone>(83)999999999</telefone>
+      <nascimento>08/01/2000</nascimento>
+      <tipoDeUsuario>Pessoa Juridica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+    </back.Cliente>
+    <back.Cliente>
+      <nome>teste</nome>
+      <cnpj>111111111111111</cnpj>
+      <senha></senha>
+      <email>teste@gmail.com</email>
+      <telefone>(11)111111111</telefone>
+      <nascimento>11/11/1111</nascimento>
+      <tipoDeUsuario>Pessoa Juridica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+    </back.Cliente>
+    <back.Cliente>
+      <nome>Usuario</nome>
+      <cnpj>11111111111</cnpj>
+      <senha></senha>
+      <email>usuario1@gmail.com</email>
+      <telefone>(11)111111111</telefone>
+      <nascimento>11/11/1990</nascimento>
+      <tipoDeUsuario>Pessoa Juridica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+    </back.Cliente>
+    <back.Cliente>
+      <nome>jona</nome>
+      <cpf>124545</cpf>
+      <senha></senha>
+      <email>maaaa</email>
+      <telefone>(  )         </telefone>
+      <nascimento>  /  /    </nascimento>
+      <tipoDeUsuario>Pessoa Fisica</tipoDeUsuario>
+      <sexo>MASCULINO</sexo>
+    </back.Cliente>
+  </todosOsClientes>
+  <todosOsFornecedores>
+    <back.Fornecedor>
+      <nome>Wanessa</nome>
+      <cpf>11122233399</cpf>
+      <senha></senha>
+      <email>wanessa@gmail.com</email>
+      <telefone>(83)999999999</telefone>
+      <nascimento>01/08/2001</nascimento>
+      <tipoDeUsuario>Pessoa Fisica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+      <servicos>
+        <back.Servico>
+          <tipoServico>1234</tipoServico>
+          <descricao>teste1</descricao>
+        </back.Servico>
+        <back.Servico>
+          <tipoServico>restre1</tipoServico>
+          <descricao>erataes12</descricao>
+        </back.Servico>
+      </servicos>
+    </back.Fornecedor>
+    <back.Fornecedor>
+      <nome>novo</nome>
+      <cpf>1234567</cpf>
+      <senha></senha>
+      <email>novo@gmail.com</email>
+      <telefone>(55)555555555</telefone>
+      <nascimento>12/03/1998</nascimento>
+      <tipoDeUsuario>Pessoa Fisica</tipoDeUsuario>
+      <sexo>MASCULINO</sexo>
+      <servicos>
+        <back.Servico>
+          <tipoServico>aer</tipoServico>
+          <descricao>bete</descricao>
+        </back.Servico>
+        <back.Servico>
+          <descricao>asgasgag</descricao>
+        </back.Servico>
+      </servicos>
+    </back.Fornecedor>
+  </todosOsFornecedores>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>

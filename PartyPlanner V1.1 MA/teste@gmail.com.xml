@@ -1,0 +1,16 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores/>
+  <todosOsClientes>
+    <back.Cliente>
+      <nome>Wolf</nome>
+      <cpf>12345678908</cpf>
+      <senha></senha>
+      <email>wolf@gmail.com</email>
+      <telefone>(83)555555555</telefone>
+      <nascimento>01/02/2000</nascimento>
+      <sexo>MASCULINO</sexo>
+    </back.Cliente>
+  </todosOsClientes>
+  <todosOsFornecedores/>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>
