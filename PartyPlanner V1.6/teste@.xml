@@ -1,0 +1,35 @@
+<back.CentralDeInformacoes>
+  <todosOsAdministradores/>
+  <todosOsClientes>
+    <back.Cliente>
+      <nome>Nome Completo</nome>
+      <cpf>insira somente os digitos</cpf>
+      <senha></senha>
+      <email>usuario@gmail.com</email>
+      <telefone>(11)111111111</telefone>
+      <nascimento>11/11/1111</nascimento>
+      <tipoDeUsuario>Pessoa Fisica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+    </back.Cliente>
+  </todosOsClientes>
+  <todosOsFornecedores>
+    <back.Fornecedor>
+      <nome>1234</nome>
+      <cpf>1234</cpf>
+      <senha></senha>
+      <email>1234@gmail.com</email>
+      <telefone>(11)111111111</telefone>
+      <nascimento>11/11/1111</nascimento>
+      <tipoDeUsuario>Pessoa Fisica</tipoDeUsuario>
+      <sexo>FEMININO</sexo>
+      <servicos>
+        <back.Servico>
+          <tipoServico>algo</tipoServico>
+          <descricao>algoaqui
+</descricao>
+        </back.Servico>
+      </servicos>
+    </back.Fornecedor>
+  </todosOsFornecedores>
+  <todosOsEventos/>
+</back.CentralDeInformacoes>
